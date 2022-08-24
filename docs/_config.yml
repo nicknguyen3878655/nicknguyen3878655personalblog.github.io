@@ -1,1 +1,23 @@
-HELLO- WORLD
+# Welcome to my pesrsonal blog
+#
+#
+#
+#
+
+#
+# 
+
+title: Reflective Blog
+email: s3878655@rmit.edu.vn
+description: >- # The blog will describe the learning process and the knowledge received after finishing the class
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nicknguyen3878655.github.io/nicknguyen3878655personalblog.github.io/"
+twitter_username: 
+github_username:  nicknguyen3878655
+
+# Build settings
+theme: The Midnight 
+plugins:
+  - jekyll-feed
+
+
